@@ -28,8 +28,6 @@ SCT_WD_4/
 
 ├── style.css # Styling (neon theme, animations)
 
-├── script.js # Functionality (task logic)
-
 └── README.md
 
 ---
