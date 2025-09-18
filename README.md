@@ -42,8 +42,4 @@ SCT_WD_4/
 
 ---
 
-## 📦 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YasolipsaBhoi/SCT_WD_4.git
+t
